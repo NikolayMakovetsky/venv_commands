@@ -16,6 +16,12 @@
 - deactivate venv ```deactivate``` (now you out of the shell and the venv is also deactivated)
 - remove venv is simple, because everything is in single folder ```Choose folder .venv and just delete it```
 
+#### Extra commands:
+- ```poetry update``` update dependencies
+- ```poetry show --tree``` tree structure of packages with their dependencies
+- ```poetry run myfile.py``` run python file using poetry
+- ```poetry env use <path to python.exe version you want to use in this project>``` set python version 
+
 #### Poetry gives you opportunity to publish your package to pypi.org:
 - ```poetry config repositories.test-pypi https://test.pypi.org/legacy```
 Then you can go to test.pypi repository and get token that allows you to publish packages to the repository
