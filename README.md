@@ -27,7 +27,7 @@ Then you can publish your package
 
 References:
 * https://python-poetry.org/docs/
-* https://habr.com/ru/articles/593529/
+* https://habr.com/ru/articles/593529/  Poetry — прекрасная альтернатива pip (шпаргалка) 
 
 
 ## Venv
