@@ -1,5 +1,6 @@
 ## Poetry
 - poetry installation ```pip install poetry```
+- get poetry current parameters ```poetry config --list```
 - initialization ```poetry init``` creates .toml file with basic packages your system needs
 - create virtualenv and installing dependencies from .toml ```poetry install```
 - get info ```poenty env info```
